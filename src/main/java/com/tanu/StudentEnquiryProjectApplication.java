@@ -1,0 +1,13 @@
+package com.tanu;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StudentEnquiryProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StudentEnquiryProjectApplication.class, args);
+	}
+
+}
